@@ -5,13 +5,14 @@
 * LEMAITRE  LUG 
 * PROVO FLORIAN 
 * SPELEERS  VALENTIN 
+* BATAILLE  JACQUES :
+
 
 ##<a href="https://github.com/ptitguigui/tdd.git"> Groupe 2 </a>
 * LEPRETRE  GUILLAUME : 
 * COLLOT  LOUIS-ARTHUR : 
 * DIEU  EMELINE : 
 * DE MORAES NICOLAS :  
-* 
 ##Groupe 3:
 * DEGUINES  ARTHUR : 
 * FABLET  YANN : 
@@ -24,7 +25,7 @@
 
 * AIT ELHAJ AZZEDINE : 
 * BARRY AMINA IBRAHIMA : 
-* BATAILLE  JACQUES : 
+ 
 * BELKADI RAYANE : 
 * BOURDIER  CLÉMENT : 
 * DELPORTE  ALLAN : 
